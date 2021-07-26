@@ -29,7 +29,7 @@ This project is a smart detection car based on infrared tracking sensor, and I t
            
 ## Main functions
  * infrared tracking<br>
-  this car can track depend on infrared tracking sensor, it is a high-performance way to attach the tracking perpose, 
+  this car can track depend on infrared tracking sensor, it is a efficient way to attach the tracking perpose, and also, infrared tracking is a high-reliability method to auto control the little car.
     
 
    
