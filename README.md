@@ -5,7 +5,8 @@
 
 <ol>
     <li><a href="#about-this-project">About this Project</a></li>
-    <li><a href="#get-start">Get Start</a></li>
+    <li><a href="#social-media">Social Media</a></li>
+    <li><a href="#get start">Get Start</a></li>
     <li><a href="#main-functions">Main functions</a</li>
     <li><a href="#contact">Contact</a></li>
 </ol>
