@@ -14,6 +14,18 @@
 ## About the project
 This project is a smart detection car based on infrared tracking sensor, and I tried to add recognizing function, but time is limited.
 
+## Social Media
+<br />
+<div align="center">
+  <br />
+  <p align="center">
+    <br />
+    <br />
+    <a href="https://youtu.be/I2r6lzp_wlI"><img height=40 src="image/youtube.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://www.instagram.com/p/CN2oNG6J-YS/"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    </p>
+</div>
+
 ## Get Start
 * Hardware：<br>
     `Raspberry pi 4b `<br>
