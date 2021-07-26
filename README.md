@@ -22,7 +22,7 @@ This project is a smart detection car based on infrared tracking sensor, and I t
     <br />
     <br />
     <a href="https://www.instagram.com/p/CRzRPjUnx0o-Xcq7o7S6pfz3dUD_u5bxlDoM3c0/?utm_medium=copy_link"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
-    <a href=""><img height=40 src="image/youtube.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="https://youtu.be/uk7S06KumPI"><img height=40 src="image/youtube.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
 </div>
 
