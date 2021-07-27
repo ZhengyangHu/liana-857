@@ -6,7 +6,7 @@
 <ol>
     <li><a href="#about-this-project">About this Project</a></li>
     <li><a href="#social-media">Social Media</a></li>
-    <li><a href="#get start">Get Start</a></li>
+    <li><a href="#get-start">Get Start</a></li>
     <li><a href="#main-functions">Main functions</a</li>
     <li><a href="#contact">Contact</a></li>
 </ol>
@@ -23,6 +23,7 @@ This project is a smart detection car based on infrared tracking sensor, and I t
     <br />
     <br />
     <a href="https://www.instagram.com/p/CR0bGrPI6H_dChvFR_IYnrBeIBO0TZcWyJS1TY0/"><img height=40 src="image/instagram.jpg"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
+        <a href="https://www.facebook.com/zhengyang.hu.5/videos/359145035623682"><img height=40 src="image/facebook.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="https://www.youtube.com/watch?v=86xGaaVowuE"><img height=40 src="image/youtube.png"></img></a>&nbsp;&nbsp;&nbsp;&nbsp;
     </p>
 </div>
